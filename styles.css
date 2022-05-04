@@ -1,0 +1,100 @@
+*{
+    font-family: 'Comfortaa', cursive;
+}
+
+body{
+    background-color: #bdbaba;
+}
+
+.contenedor{ 
+    width: 1500px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.contenedor:hover{
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.4);
+}
+
+footer{
+    width: 1250px;
+    margin: auto;
+}
+
+footer p{
+    display: inline-block;
+    color: #6e6e6e;
+}
+
+footer img{
+    float: right;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+header{
+    margin: 30px;
+}
+
+header h1{
+    display: inline-block;
+    float: left;
+    padding: 50px;
+    margin: 0;
+}
+
+header nav{
+    display: inline-block;
+    float: right;
+    padding: 50px;
+}
+
+header a{
+    text-decoration: none;
+    color: #6e6e6e;
+    margin-left: 15px;
+}
+
+header a:hover{
+    color: aqua;
+}
+
+
+article img{
+    width: 600px;
+    height:400px;
+    display: inline-block;
+  
+
+}
+
+article{
+    display: inline-block;
+    width: 60%;
+    margin: auto;
+    float: left;
+}
+
+aside {
+    display: inline-block;
+    width: 40%;
+    padding: 20px;
+}
+
+
+aside img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+aside h3{
+    color: rgba(40, 40, 40, 0.6);
+}
+
+
+  
